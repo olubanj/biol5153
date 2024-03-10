@@ -3,15 +3,15 @@
 print('#!/bin/bash')
 
 print('#SBATCH --job-name=example')
-#SBATCH --partition comp72
-#SBATCH --nodes=1
-#SBATCH --qos comp
-#SBATCH --tasks-per-node=32
-#SBATCH --time=72:00:00
-#SBATCH -o example_%j.out
-#SBATCH -e example_%j.err
-#SBATCH --mail-type=ALL
-#SBATCH --mail-user=email@uark.edu
+print('#SBATCH --partition comp72')
+print('#SBATCH --nodes=1')
+print('#SBATCH --qos comp')
+print('#SBATCH --tasks-per-node=32')
+print('#SBATCH --time=72:00:00')
+print('#SBATCH -o example_%j.out')
+print('#SBATCH -e example_%j.err')
+print('#SBATCH --mail-type=ALL')
+print('#SBATCH --mail-user=email@uark.edu)
 
 module purge
 module load intel/18.0.1 impi/18.0.1 mkl/18.0.1
