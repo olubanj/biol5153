@@ -1,6 +1,8 @@
-#!/bin/bash
+#! /usr/bin/env python3
 
-#SBATCH --job-name=example
+print('#!/bin/bash')
+
+print('#SBATCH --job-name=example')
 #SBATCH --partition comp72
 #SBATCH --nodes=1
 #SBATCH --qos comp
