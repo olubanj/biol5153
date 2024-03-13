@@ -1,0 +1,76 @@
+---
+title: "Deborah Olubanjo"
+date: "2024-03-12"
+output: html_document
+---
+
+#### **address**: "1601 N Leverett Avenue, Fayetteville AR 72703"
+#### **phone**: "+14797997132"
+#### **email**: "olubanjo@uark.edu"
+
+## Career Objective
+
+Seek to add value by unravelling genes responsible for Pathogenesis of Salmonella Typhimurium in Poultry, in addition to answering daunting questions on metabolic pathways of biomarkers for gut inflammation and said Pathogenesis using mass spectrometry.
+Combine my skills as Analytical chemist, biomolecular analyst, and exceptional skill in analytical method development, method validation, Quality control and assurance, good manufacturing practices, and quality management systems to support continuous improvement in poultry production, improve productivity, and ensure that poultry products are of high quality.
+
+## Education
+
+Education
+PhD in Poultry
+University of Arkansas, Fayetteville
+Jan 2023 - Present
+
+M.Sc. in Analytical Chemistry
+University of Ibadan, Ibadan, Nigeria
+Sept 2007 - May 2009
+
+B.Sc. (Hons) in Industrial Chemistry
+University of Ilorin, Ilorin, Kwara State
+2001 - 2005
+
+
+
+## Work Experience
+### Senior graduate student  
+Jan 2023 - Present  
+- **Description:** Poultry Science department, University of Arkansas, Fayetteville.
+
+  - Conducting studies on chickens, including microbial analysis and chemical inventory management.
+  - Utilizing bioinformatics tools for sequence alignment and analysis.
+  - Investigating the genomic and metabolomic basis of Salmonella Typhimurium shedding variability in chickens.
+
+### Volunteer  
+- **Duration:** Jan - Dec 2022  
+- **Description:** Various capacities within Poultry Science department and farms. Supported research group in animal trials, bird placement, and sampling days for trial on Targeted to study effect of non-starch polysaccharides diet (NSP) trigger of gut inflammation during animal trials. Analytical Support for research group on functional genomics analysis on sample collected from trial and in ongoing research. Volunteered at Poultry farm in bird weighing and sample collection during three trials. Method development support for targeted and untargeted methods for prostaglandin and proteins analysis using mass spectrometry.
+
+### Senior Chemical Analyst/Site eDM Champion  
+- **Duration:** Sept 2016 - Nov 2021  
+- **Description:** GlaxoSmithKline Consumer Plc, Agbara, Ogun State.
+Designed and maintained standard operating procedures (SOPs) and analytical testing procedures (ATPs).
+Executed analytical method validation, verification, and method transfers.
+Coached and performed reviews for analysis on equipment such as Gas Chromatography (GC), Fourier Transform Infra-red (FT-IR) spectrophotometer, UV Spectrophotometer Atomic Absorption Spectrophotometer (AAS), and High-performance Liquid Chromatography (HPLC).
+Coordinated analysis of raw and packaging materials, intermediate, and finished products.
+Performed audit trail and other lead user activities on HPLC Empower 3- Software.
+Generated protocols and performed installation, operational, and performance qualification for laboratory equipment.
+Carried out quality control management audit and EHS audits.
+Progressed timely closure of associated corrective and preventive actions (CAPA).
+Led continuous improvement projects in the laboratory such as Kaizen and 5S.
+Led daily performance/accountability meetings.
+Acted as a leader and analyst standard work.
+Initiated and reviewed change control and deviation on Trackwise.
+Implemented associated action and effectiveness checks.
+Managed controlled document management systems (CDMS).
+Led laboratory investigations and site deviation investigation meetings.
+Served as an eDM (Excellence in deviation management) champion for the site.
+
+### Quality Control Analyst  
+- **Duration:** Aug 2012 - Aug 2016  
+- **Description:** GlaxoSmithKline Consumer Plc, Agbara, Ogun State. Responsibilities
+Performed analysis of raw materials, packaging materials, intermediate, and finished products for Panadol Extra and Macleans toothpaste variants.
+Conducted analysis using HPLC, Gas Chromatography (GC), viscometer, polarimeter, refractometer, Hach spectrophotometer, pH/ISE meter, and analytical balance.
+Handled receipt and inventory control of chemicals.
+Participated in laboratory investigations and site deviation investigation meetings.
+
+
+Publications
+Olu-Owolabi, B. I., Popoola, D. B., & Unuabonah, E. I. (2010). Removal of Cu2+ and Cd2+ from Aqueous Solution by Bentonite Clay Modified with Binary Mixture of Goethite and Humic Acid. Water, Air, and Soil Pollution, 211(1–4), 459–474.
