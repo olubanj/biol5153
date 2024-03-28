@@ -2,7 +2,7 @@ print("#!/bin/bash")
 
 print("# Define paths")
 print("gff_file_path = '../watermelon/watermelon.gff'")
-print("cds_file_path = 'watermelon.gbf'  # Output file will be in the same directory as the input file")
+print("cds_file_path = 'watermelon.gbf'  
 print()
 
 print("# Your SLURM directives here...")
@@ -11,7 +11,7 @@ print("#SBATCH --partition comp72")
 print("#SBATCH --nodes=1")
 print("#SBATCH --qos comp")
 print("#SBATCH --tasks-per-node=32")
-print("#SBATCH --time=00:30:00  # 30 minutes time limit")
+print("#SBATCH --time=00:30:00  o
 print("#SBATCH -o example_%j.out")
 print("#SBATCH -e example_%j.err")
 print("#SBATCH --mail-type=ALL")
